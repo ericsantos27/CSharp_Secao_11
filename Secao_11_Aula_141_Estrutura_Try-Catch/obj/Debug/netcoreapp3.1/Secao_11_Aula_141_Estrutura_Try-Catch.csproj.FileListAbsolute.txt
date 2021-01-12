@@ -1,0 +1,13 @@
+C:\Users\esant\Source\Repos\Curso_CSharp_Secao_11\Secao_11_Aula_141_Estrutura_Try-Catch\bin\Debug\netcoreapp3.1\Secao_11_Aula_141_Estrutura_Try-Catch.exe
+C:\Users\esant\Source\Repos\Curso_CSharp_Secao_11\Secao_11_Aula_141_Estrutura_Try-Catch\bin\Debug\netcoreapp3.1\Secao_11_Aula_141_Estrutura_Try-Catch.deps.json
+C:\Users\esant\Source\Repos\Curso_CSharp_Secao_11\Secao_11_Aula_141_Estrutura_Try-Catch\bin\Debug\netcoreapp3.1\Secao_11_Aula_141_Estrutura_Try-Catch.runtimeconfig.json
+C:\Users\esant\Source\Repos\Curso_CSharp_Secao_11\Secao_11_Aula_141_Estrutura_Try-Catch\bin\Debug\netcoreapp3.1\Secao_11_Aula_141_Estrutura_Try-Catch.runtimeconfig.dev.json
+C:\Users\esant\Source\Repos\Curso_CSharp_Secao_11\Secao_11_Aula_141_Estrutura_Try-Catch\bin\Debug\netcoreapp3.1\Secao_11_Aula_141_Estrutura_Try-Catch.dll
+C:\Users\esant\Source\Repos\Curso_CSharp_Secao_11\Secao_11_Aula_141_Estrutura_Try-Catch\bin\Debug\netcoreapp3.1\Secao_11_Aula_141_Estrutura_Try-Catch.pdb
+C:\Users\esant\Source\Repos\Curso_CSharp_Secao_11\Secao_11_Aula_141_Estrutura_Try-Catch\obj\Debug\netcoreapp3.1\Secao_11_Aula_141_Estrutura_Try-Catch.csprojAssemblyReference.cache
+C:\Users\esant\Source\Repos\Curso_CSharp_Secao_11\Secao_11_Aula_141_Estrutura_Try-Catch\obj\Debug\netcoreapp3.1\Secao_11_Aula_141_Estrutura_Try-Catch.AssemblyInfoInputs.cache
+C:\Users\esant\Source\Repos\Curso_CSharp_Secao_11\Secao_11_Aula_141_Estrutura_Try-Catch\obj\Debug\netcoreapp3.1\Secao_11_Aula_141_Estrutura_Try-Catch.AssemblyInfo.cs
+C:\Users\esant\Source\Repos\Curso_CSharp_Secao_11\Secao_11_Aula_141_Estrutura_Try-Catch\obj\Debug\netcoreapp3.1\Secao_11_Aula_141_Estrutura_Try-Catch.csproj.CoreCompileInputs.cache
+C:\Users\esant\Source\Repos\Curso_CSharp_Secao_11\Secao_11_Aula_141_Estrutura_Try-Catch\obj\Debug\netcoreapp3.1\Secao_11_Aula_141_Estrutura_Try-Catch.dll
+C:\Users\esant\Source\Repos\Curso_CSharp_Secao_11\Secao_11_Aula_141_Estrutura_Try-Catch\obj\Debug\netcoreapp3.1\Secao_11_Aula_141_Estrutura_Try-Catch.pdb
+C:\Users\esant\Source\Repos\Curso_CSharp_Secao_11\Secao_11_Aula_141_Estrutura_Try-Catch\obj\Debug\netcoreapp3.1\Secao_11_Aula_141_Estrutura_Try-Catch.genruntimeconfig.cache
